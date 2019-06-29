@@ -26,7 +26,7 @@
 
 ## Code examples  
 
-[Сodewars stats](https://www.codewars.com/users/plusch011/completed)  
+[Сodewars stats](https://www.codewars.com/users/AndreySomov/completed)  
 
 
 ##### P.S. Im on RSS JS course now. My position after 2-nd stage is 1.
