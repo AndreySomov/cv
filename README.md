@@ -1,6 +1,6 @@
 # Andrey Somov
 
-![Me](https://github.com/AndreySomov/cv/blob/gh-pages/me.jpg?raw=true)
+![Me](https://github.com/plusch011/cv/blob/gh-pages/photo.jpg?raw=true)
 
 **Position**: Front end developer  
 **Experience**: 6 months  
