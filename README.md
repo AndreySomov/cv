@@ -21,8 +21,8 @@
 
 ## Projects
 
-[Piskel clone(training project based on react)](https://github.com/AndreySomov/piskel-clone/)  
-[Youtube-bootstrap(training project based on pure js)](https://github.com/AndreySomov/youtube-bootstrap/)  
+[Piskel clone(training project based on react)](https://AndreySomov.github.io/piskel-clone/)  
+[Youtube-bootstrap(training project based on pure js)](https://AndreySomov.github.io/youtube-bootstrap/)  
 
 ## Code examples  
 
