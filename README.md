@@ -1,6 +1,6 @@
 # Andrey Somov
 
-![Me](https://github.com/AndreySomov/cv/blob/gh-pages/me.jpg?raw=true)
+![Me](https://github.com/AndreySomov/cv/blob/gh-pages/me.jpg?raw=true =100x100)
 
 **Position**: Front end developer  
 **Experience**: 6 months  
@@ -21,7 +21,7 @@
 
 ## Projects
 
-[Piskel clone(training project based on react)](https://github.com/AndreySomov/piskel-clone)
+[Piskel clone(training project based on react)](https://github.com/AndreySomov/piskel-clone)  
 [Youtube-bootstrap(training project based on pure js)](https://github.com/AndreySomov/youtube-bootstrap)
 
 ## Code examples
