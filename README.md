@@ -29,8 +29,8 @@ Only for 1980x1080. Online editor for animated sprites & pixel art based on canv
 #### Youtube-bootstrap  
 [Training project based on pure js](https://AndreySomov.github.io/youtube-bootstrap/)  
 
-Web application for searching youtube videos based on Youtube API. 
-Created on pure javascript with MVC model.
+Full adaptiv web application for searching youtube videos based on Youtube API. 
+Created on pure javascript with MVC model. 
 
 
 ## Code examples  
