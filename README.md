@@ -12,10 +12,10 @@
 
 | Skill         | Experience    |
 | ------------- |:-------------:|
-| Javascript    | 6 months      |
-| DOM           | 5 months      |
-| CSS           | 3 months      |
-| HTML          | 3 months      |
+| Javascript    | 6 month       |
+| DOM           | 5 month       |
+| CSS           | 3 month       |
+| HTML          | 3 month       |
 | React         | 1 month       |
 | Git           | 3 month       |
 
