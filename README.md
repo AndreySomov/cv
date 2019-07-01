@@ -7,7 +7,8 @@
 **English**: A2+  
 **Education**: Molodechno lyceum 7, 11 classes + BSUIR faculty of radio electronics 3 course  
 **About me**: Able to work in team, responsible and attentive. Cheerful and sociable.  
-**Contacts**: [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D1%81%D0%BE%D0%BC%D0%BE%D0%B2-39bb94181/)  
+**Contacts**: [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D1%81%D0%BE%D0%BC%D0%BE%D0%B2-39bb94181/), 
+[Github](https://github.com/AndreySomov), velcom: +37544 793-49-91
 
 ## Professional skills  
 
