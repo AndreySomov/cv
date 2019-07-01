@@ -22,11 +22,11 @@
 ## Projects
 
   
-[#### Piskel clone](https://AndreySomov.github.io/piskel-clone/)  
+[Piskel clone](https://AndreySomov.github.io/piskel-clone/)  
 
 Only for 1980x1080. Online editor for animated sprites & pixel art based on canvas API and React.
  
-[#### Youtube-bootstrap ](https://AndreySomov.github.io/youtube-bootstrap/)  
+[Youtube-bootstrap ](https://AndreySomov.github.io/youtube-bootstrap/)  
 
 Full adaptiv web application for searching youtube videos based on Youtube API. 
 Created on pure javascript with MVC model. 
