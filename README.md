@@ -21,8 +21,17 @@
 
 ## Projects
 
-[Piskel clone only for 1980x1080 screen(training project based on react)](https://AndreySomov.github.io/piskel-clone/)  
-[Youtube-bootstrap for all devices(training project based on pure js)](https://AndreySomov.github.io/youtube-bootstrap/)  
+#### Piskel clone  
+[Training project based on react](https://AndreySomov.github.io/piskel-clone/)  
+
+Only for 1980x1080. Online editor for animated sprites & pixel art based on canvas API and React.
+
+#### Youtube-bootstrap  
+[Training project based on pure js](https://AndreySomov.github.io/youtube-bootstrap/)  
+
+Web application for searching youtube videos based on Youtube API. 
+Created on pure javascript with MVC model.
+
 
 ## Code examples  
 
